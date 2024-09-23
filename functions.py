@@ -1,8 +1,8 @@
 import numpy as np
 
-A = np.array(["1144AJC"])
-B = np.array(["1144AJC"])
-C = np.array(["1144AJC"])
+A = np.array([])
+B = np.array([])
+C = np.array([])
 
 def ocupar_vaga():
     global A,B,C
