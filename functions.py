@@ -36,5 +36,3 @@ def ocupar_vaga():
                 return()
             else:
                 return(print("Placa já Registrada"))
-
-ocupar_vaga()
